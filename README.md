@@ -100,7 +100,7 @@ HUNTER×HUNTERに登場する架空のボードゲーム「軍儀」をFlutter�
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/your-username/gungi.git
+git clone https://github.com/hirotaka-iwasaki/gungi.git
 cd gungi
 
 # 依存関係をインストール
